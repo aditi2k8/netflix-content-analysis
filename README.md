@@ -40,6 +40,6 @@ Netflix Movies and TV Shows by Shivam Bansal on Kaggle
 
 ## How to Run
 1. Clone this repository
-2. Install dependencies: `pip install pandas plotly seaborn matplotlib`
+2. Install dependencies: `pip install pandas seaborn matplotlib`
 3. Open `netflix_analysis.ipynb` in Jupyter Notebook or VS Code
 4. Run all cells
